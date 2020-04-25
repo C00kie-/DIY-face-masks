@@ -101,6 +101,7 @@ Tout est sous licence Creative Commons Zero v1.0 Universal
 - BE: [Make a face mask](https://makefacemasks.com/)
 - FR: [Stop postillons](http://stop-postillons.fr/)
 - US: [Use of Cloth Face Coverings to Help Slow the Spread of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
+- US: [Instructional video for sewing the Olson mask (COVID-19)](https://www.youtube.com/watch?v=ZnVk12sFRkY)
 
 ### Sangles pour soutenir les élastiques du masque
 - [Surgical Mask Strap Remix](https://www.thingiverse.com/thing:4249113) - Requires a 3D-Printer
